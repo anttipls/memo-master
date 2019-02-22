@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="actnExit">Exit</string>
+    <string name="actnClear">Clear</string>
+    <string name="btnOk">OK</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnEdit">Edit</string>
+    <string name="titlAdd">Add item</string>
+    <string name="titlEdit">Edit item</string>
+
+        <string name="dbName">notes</string>
+    <string name="tableName">notes</string>
+    <string name="noteID">ID</string>
+    <string name="noteTitle">Title</string>
+    <string name="noteText">Text</string>
+    <string name="noteDate">Date</string>
+    <string name="notePriority">Priority</string>
+    <string name="noteStruck">Struck</string>
+
+
+    <string-array name="categoryList">
+        <item>Shopping</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Hobby1</item>
+        <item>Hobby2</item>
+        <item>Misc</item>
+        <item>All</item>
+    </string-array>
+    
+</resources>

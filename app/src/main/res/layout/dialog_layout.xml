@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Layout for edit and add item dialog
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/eTValue"
+        />
+    <!--
+    Add inputs for every point of data in Note class (Title, deadline, date...)
+    -->
+
+    <!--
+    Checkbox asking if category is new, if not checked show picker populated with existing categories
+    -->
+</LinearLayout>
